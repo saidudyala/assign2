@@ -593,3 +593,6 @@ namespace assign2
         }
     }
 }
+//it took me around 4 hours to finish this assignment.
+//what is they are pretty much easy but c# is consuming time to solve them.
+//My recomendation would be to try new problems which are completely new to people.
